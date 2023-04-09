@@ -1,4 +1,4 @@
--- Lets deeper explore the data and explroe the following questions:
+-- Lets deeper explore the data and explore the following questions:
 -- Which countries are most successful?
 -- Which athletes are most successful?
 -- Patterns and significance of age and gender of medal winners over the years
